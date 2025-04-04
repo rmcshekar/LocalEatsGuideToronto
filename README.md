@@ -21,6 +21,14 @@ Feel free to suggest more restaurants and cafes or improvements to the design! J
 Adding An Extra Line to check the Flow
 
 
+#####
+
+Changes done to learn GIT STASH 
+
+
+
 ####
 
 Testing Practice
+
+
